@@ -84,7 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "Machine Learning Research Engineer"
   location         : "Tashkent, Uzbekistan"
-  employer         : "Romanovsky Institute of Mathematics, Academy of Sciences of Uzbekistan"
+  employer         : >
+    Romanovsky Institute of Mathematics,
+    Academy of Sciences of Uzbekistan
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NzU11nAAAAAJ"
   email            : "s.adilov@mathinst.uz"
@@ -109,7 +111,7 @@ author:
   stackoverflow    : "https://stackoverflow.com/users/6932244/sanjar-adilov"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
