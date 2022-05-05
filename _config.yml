@@ -82,11 +82,9 @@ analytics:
 author:
   name             : "Sanjar Adilov"
   avatar           : "profile.png"
-  bio              : "Machine Learning Research Engineer"
+  bio              : "Machine Learning Engineer"
   location         : "Tashkent, Uzbekistan"
-  employer         : >
-    Romanovsky Institute of Mathematics,
-    Academy of Sciences of Uzbekistan
+  employer         : "Romanovsky Institute of Mathematics"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NzU11nAAAAAJ"
   email            : "s.adilov@mathinst.uz"
@@ -105,10 +103,10 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "sanjaradylov"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-0077-9697"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/6932244/sanjar-adilov"
+  stackoverflow    : "6932244/sanjar-adilov"
   steam            :
   tumblr           :
   twitter          :
