@@ -9,7 +9,7 @@ paperurl: 'http://doi.org/10.33774/chemrxiv-2021-5fwjd'
 citation: 'Adilov, Sanjar (2021): Generative Pre-Training from Molecules. ChemRxiv. Preprint. doi:10.33774/chemrxiv-2021-5fwjd'
 ---
 Pre-training a multi-task GPT-2 transformer for drug design. Transfer learning with adapter modules for molecular-property prediction and focused molecule generation.
-[[ChemRxiv]](http://doi.org/10.33774/chemrxiv-2021-5fwjd)
+[[ChemRxiv]](http://doi.org/10.33774/chemrxiv-2021-5fwjd) [[Github]](https://github.com/sanjaradylov/smiles-gpt)
 
 ## Abstract
 SMILES is a line notation for entering and representing molecules. Being inherently a language construct, it allows estimating molecular data in a self-supervised
