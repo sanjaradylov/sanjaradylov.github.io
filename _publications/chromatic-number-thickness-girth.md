@@ -3,7 +3,7 @@ title: "An upper bound for the chromatic number of graphs with given thickness a
 collection: publications
 permalink: /publication/chromatic-number-thickness-girth
 excerpt: 'An upper bound for the chromatic number of graphs depending on thickness and girth.'
-date: 2018
+date: 2018-09-01
 venue: 'Intelligent systems. Theory and applications'
 paperurl: 'http://mi.mathnet.ru/eng/ista/v22/i3/p99'
 citation: 'S. Sh. Adilov, “An upper bound for the chromatic number of graphs with given thickness and girth”, Intelligent systems. Theory and applications, 22:3 (2018), 99–104'
