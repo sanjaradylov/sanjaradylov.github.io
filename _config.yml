@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sanjar Adilov / Personal Website"
 title_separator          : "-"
 name                     : &name "Sanjar Adilov"
-description              : &description "Machine Learning Research Engineer"
+description              : &description "Machine Learning Software Engineer"
 url                      : https://sanjaradylov.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sanjaradylov/sanjaradylov.github.io"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Machine Learning Software Engineer"
   location         : "Tashkent, Uzbekistan"
-  employer         : "Alif Tech 🇺🇿"
+  employer         : "Alif Tech (https://aliftech.uz)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NzU11nAAAAAJ"
   email            : 
