@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sanjar Adilov"
   avatar           : "profile.png"
-  bio              : "Machine Learning Engineer"
+  bio              : "Machine Learning Software Engineer"
   location         : "Tashkent, Uzbekistan"
-  employer         : "Romanovsky Institute of Mathematics"
+  employer         : "Alif Tech 🇺🇿"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NzU11nAAAAAJ"
-  email            : "s.adilov@mathinst.uz"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : "6932244/sanjar-adilov"
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "sanjaradylov"
   vine             :
   weibo            :
   xing             :
