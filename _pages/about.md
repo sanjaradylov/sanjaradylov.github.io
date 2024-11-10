@@ -26,3 +26,15 @@ I try to be active on social media incl. [Medium](https://medium.com/@sshadylov)
 [Kaggle](https://www.kaggle.com/sshadylov), and [Github](https://github.com/sanjaradylov) by sharing
 my thoughts and experiences on the field. Check out the references & pages on this website and feel
 free to reach out by any means that suits you best.
+
+
+# Recent News
+
+* _2024/11/08_. Finally retook the TOEFL and scored 108, marking a huge improvement from my previous 95 in October 2021!
+* _2024/10/26-27_. Mentored @ [Women Techmakers Tashkent](https://www.instagram.com/wtm.tashkent/). See my
+  [Smooth & Fresh Introduction to Tabular Competitions](https://www.kaggle.com/code/sshadylov/smooth-fresh-intro-to-tabular-competitions-ii/)
+  (w/ `scikit-learn`, `skrub`, `mlxtend`, and `feature-engine`).
+* _2024/10/12_. 🎉 `scikit-fallback` [v0.1.1.post0](https://github.com/sanjaradylov/scikit-fallback/releases/tag/v0.1.1.post0) is out!
+  See also the [documentation](https://scikit-fallback.readthedocs.io/en/latest/) and
+  the [v0.1.0](https://github.com/sanjaradylov/scikit-fallback/releases/tag/v0.1.0) release w/ bugfixes and new features such as anomaly-based
+  fallback classification.
