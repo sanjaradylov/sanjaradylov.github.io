@@ -8,21 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Machine Learning Software Engineer @ [EPAM Systems](https://epam.com). I have 7+ years of
-experience in developing software of various kinds - mostly, machine learning solutions. Currently
-I'm working on graph optimization and analysis for warehouses. Previously, I served as a
-Data Scientist / Machine Learning Engineer @ [Alif 🇺🇿](https://aliftech.uz) building AI assistants for
-the automation of conversational experiences of our clients. I was also a Research Engineer
-@ [Romanovsky Institue of Mathematics](https://en.mathinst.uz) working on adapting
-machine learning methods including foundation models (see, e.g.,
-[`smiles-gpt`](https://sanjaradylov.github.io/publication/smiles-gpt)) and graph neural networks to
-chemistry. I received my Bachelor's in Applied Mathematics & Computer Science from
-[Lomonosov Moscow State University in Tashkent](https://msu.ru/en/).
+I'm an AI Engineer @ [EPAM Systems](https://epam.com). I have 8+ years of
+experience in developing software of various kinds - mostly, machine learning solutions. Currently, I'm
+developing libraries for efficient LLM inference on [Tenstorrent](https://tenstorrent.com) hardware.
+Previously, I worked on graph optimization and inferential analysis of [Locus Robotics](https://locusrobotics.com)
+warehouses, built AI assistants for the automation of conversational experiences of clients @ [Alif 🇺🇿](https://aliftech.uz),
+and did research on machine learning for drug discovery, incl. chemical foundation modeling and multi-task tabular /
+graph learning, @ [Romanovsky Institue of Mathematics](https://en.mathinst.uz). I received my Bachelor's in Applied Math
+ & CS from [Lomonosov Moscow State University in Tashkent](https://msu.ru/en/).
 
-I'm mostly interested in deep learning and its applications in natural language processing, esp. the
-parts that make high-throughput, research-intensive solutions largely available in industry. But my
-interests are not strictly limited, and some of the projects I enjoyed being involved in (albeit
-shortly) are transaction fraud monitoring and credit scoring.
+I'm broadly interested in production-oriented machine learning, esp. in solutions for making predictive systems
+efficient, reliable, and practically deployable.
 
 I try to be active on social media incl. [Medium](https://medium.com/@sshadylov),
 [Kaggle](https://www.kaggle.com/sshadylov), and [Github](https://github.com/sanjaradylov) by sharing
@@ -32,6 +28,10 @@ free to reach out by any means that suits you best.
 
 # Recent News
 
+* _2026/09/07_. 📝 Read about how we develop our vLLM plugin for Tenstorrent hardware in the vLLM blog:
+  [Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin](https://vllm.ai/blog/2026-09-07-vllm-tt-plugin).
+* _2026/02/22_. 🎉 `scikit-fallback` [`v0.2.0.post1`](https://github.com/sanjaradylov/scikit-fallback) is out! It brings better [docs](https://scikit-fallback.rtfd.io/),
+  major features like *dynamic ensembling* with `ThresholdCascadeClassifier` and other estimators, and several small improvements.
 * _2025/08/13-15_. Mentored the runner-up and multiple other teams @ [IT Park AI Hackathon](https://it-park.uz/en/itpark/news/results-of-the-first-corporate-ai-hackathon-at-it-park-uzbekistan)!
 * _2025/05/01_. Started my new journey as a Data Sci / ML Eng @ [EPAM](https://epam.com)!
 * _2024/11/08_. Finally retook the TOEFL and scored 108, marking a huge improvement from my previous 95 in October 2021!
